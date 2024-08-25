@@ -17,7 +17,6 @@ body{
 }
 p{
     color: #828282;
-;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
@@ -31,8 +30,6 @@ nav{
     top: 0;
     left: 0;
     right: 0;
-
-    /* bottom: 10%; */
 }
 .logo a{
     color: black;
